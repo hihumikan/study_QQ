@@ -12,7 +12,7 @@
 1. Evan You(中国人)によって作られたJavaScriptフレームワーク(jsがちょー凄くなったやつ)
 2. ↑アジアで大人気、違うフレームワークのReactとかAngularは米国で人気らしい
 3. 正直ReactでもVue.jsでもフロントエンドは開発出来る、メリット,デメリットはあるけど、好きな方でいいと思う。
-4. HTML,CSSは基礎知ってると良い、生jsも基礎をやっていた方が分かりやすいし、それを生かした物なので、まずは生jsとか**基礎からやろう**　いきなりvue.jsはヤバい
+4. HTML,CSSは基礎知ってると良い、生jsも基礎をやっていた方が分かりやすいし、それを生かした物なので、まずは生jsとか**基礎からやろう**　基礎からと言っても、何かしら自分で簡単なプロダクトから作成することをお勧めします。いきなりvue.jsはヤバい
 5. しかし、生jsと書き方が違うし、コードを書く勝手が違う、概念も違うので**全く新しい言語を覚える感じ**で挑む
    <br>
 
@@ -92,17 +92,17 @@ success Saved lockfile.
 
 📄  Generating README.md...
 
-🎉  Successfully created project aa.
+🎉  Successfully created project 好きな名前.
 👉  Get started with the following commands:
 
- $ cd aa
+ $ cd 好きな名前
  $ yarn serve
 ```
 
 と表示される。これで必要なファイルの準備が出来た。
 
 ```
- $ cd aa
+ $ cd 好きな名前
  $ yarn serve
 ```
 
