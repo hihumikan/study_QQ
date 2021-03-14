@@ -1,4 +1,4 @@
-# vue_1
+#　ドキュメントはMarkDownディレクトリに保管されています。
 
 ## Project setup
 ```
